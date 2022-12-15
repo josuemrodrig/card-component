@@ -15,6 +15,7 @@ This is a solution to the [Product preview card component challenge on Frontend 
     -   [Useful resources](#useful-resources)
 -   [Author](#author)
 
+
 ## Overview
 
 ### The challenge
@@ -27,8 +28,9 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [Add live site URL here](https://josuemrodrig.github.io/card-component/)
+
+## My process
 
 ### Built with
 
@@ -52,5 +54,4 @@ At this point I am trying to use what I have learned about html and css, at the 
 
 ## Author
 
--   Website - [Josue Martinez](https://www.your-site.com)
 -   Frontend Mentor - [@josuemrodrig](https://www.frontendmentor.io/profile/josuemrodrig)
